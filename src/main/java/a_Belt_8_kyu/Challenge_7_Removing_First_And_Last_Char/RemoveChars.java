@@ -1,4 +1,4 @@
-package Challenge_7_Removing_First_And_Last_Char;
+package a_Belt_8_kyu.Challenge_7_Removing_First_And_Last_Char;
 
 import java.util.Arrays;
 

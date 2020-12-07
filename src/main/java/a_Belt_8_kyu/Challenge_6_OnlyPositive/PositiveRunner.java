@@ -1,4 +1,4 @@
-package Challenge_6_OnlyPositive;
+package a_Belt_8_kyu.Challenge_6_OnlyPositive;
 
 public class PositiveRunner {
     public static void main(String[] args) {

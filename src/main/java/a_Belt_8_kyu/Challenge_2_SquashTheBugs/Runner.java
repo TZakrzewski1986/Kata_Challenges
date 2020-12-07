@@ -1,4 +1,4 @@
-package Challenge_2_SquashTheBugs;
+package a_Belt_8_kyu.Challenge_2_SquashTheBugs;
 
 public class Runner {
     public static void main(String[] args) {

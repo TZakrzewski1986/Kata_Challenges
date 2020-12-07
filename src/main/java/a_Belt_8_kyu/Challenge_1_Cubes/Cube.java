@@ -1,4 +1,4 @@
-package Challenge_1_Cubes;
+package a_Belt_8_kyu.Challenge_1_Cubes;
 
 public class Cube {
 

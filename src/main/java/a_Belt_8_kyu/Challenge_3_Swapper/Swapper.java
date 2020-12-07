@@ -1,4 +1,4 @@
-package Challenge_3_Swapper;
+package a_Belt_8_kyu.Challenge_3_Swapper;
 
 public class Swapper {
 

@@ -1,6 +1,4 @@
-package Challenge_3_Swapper;
-
-import java.util.Arrays;
+package a_Belt_8_kyu.Challenge_3_Swapper;
 
 public class SwapperRunner {
     public static void main(String[] args) {
