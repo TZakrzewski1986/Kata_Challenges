@@ -1,6 +1,4 @@
-package a_Belt_8_kyu.Challenge_7_Removing_First_And_Last_Char;
-
-import java.util.Arrays;
+package a_Belt_8_kyu.Challenge_7_RemovingFirstAndLastChar;
 
 public class RemoveChars {
     public static String remove(String str) {
