@@ -1,4 +1,4 @@
-package a_Belt_8_kyu.InvertValues;
+package a_Belt_8_kyu.Challenge_22_InvertValues;
 
 import java.util.Arrays;
 

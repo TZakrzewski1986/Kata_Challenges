@@ -1,4 +1,4 @@
-package a_Belt_8_kyu.InvertValues;
+package a_Belt_8_kyu.Challenge_22_InvertValues;
 
 public class Kata {
     public static int[] invert(int[] array) {
